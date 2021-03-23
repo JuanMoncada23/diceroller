@@ -1,8 +1,8 @@
 div.dice {
     float: left; 
     width: 50px;
-    background: rgb(0, 255, 0);
-    border: blue 4px solid;
+    background: rgba(21, 148, 221, 0.705);
+    border: rgb(216, 35, 22) 4px solid;
     padding: 10px; 
     font-size: 25px;
     text-align: center;

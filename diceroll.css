@@ -1,11 +1,11 @@
 div.dice {
     float: left; 
     width: 50px;
-    background: rgba(21, 148, 221, 0.705);
+    background: rgba(200, 40, 214, 0.705);
     border: rgb(216, 35, 22) 4px solid;
     padding: 10px; 
     font-size: 25px;
-    text-align: center;
+    text-align: right;
     margin: 10px; 
 }
 button {
